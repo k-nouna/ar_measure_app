@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9dbe6f3e8b79a174094642d61ca29b39
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_InteractionManager: {instanceID: 0}
+  - m_CustomReticle: {instanceID: 0}
+  - m_XROrigin: {instanceID: 0}
+  - m_ARSessionOrigin: {instanceID: 0}
+  - placementPrefab: {fileID: 8451839483536065218, guid: 2d30ea3e2e101424bbb231ee89496e97, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
